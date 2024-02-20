@@ -1,2 +1,2 @@
-# CodeGym
-Code gym exercises
+# CodeWars
+Codewars exercises
